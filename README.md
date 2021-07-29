@@ -1,2 +1,2 @@
 # IBM_Data_Science
-ibm data science course
+ibm data science course series
