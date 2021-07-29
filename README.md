@@ -1,2 +1,2 @@
 # IBM_Data_Science
-ibm data science course series
+Coursera IBM Data Science Professional Certificate course series
